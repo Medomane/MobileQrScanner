@@ -1,6 +1,6 @@
 # scanner
 
-QR Scanner.
+QR Scanner (get information about scanned object).
 
 ## Getting Started
 
